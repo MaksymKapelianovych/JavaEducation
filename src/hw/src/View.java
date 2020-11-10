@@ -1,4 +1,4 @@
-package hw;
+package hw.src;
 
 public class View {
     public static final String INPUT_FIRST_WORD = "Input first word: ";

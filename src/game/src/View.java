@@ -1,4 +1,4 @@
-package game;
+package game.src;
 
 public class View {
     public static final String START_WORDS = "Hi! Let's play. Try to guess the number";
